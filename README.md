@@ -21,4 +21,8 @@ File -> import -> General -> Existing projects into workspace -> click next and 
 
 5. Open postman or any other Rest client and call an end point to make sure.
 
+#Configuring the mysql on local and modifying the datasource properties
 
+1. Modify the  datasource url  like #url: jdbc:mysql://localhost:3306/test , here test stands for the schema/database we created on local
+
+2. Check with the username and password 
